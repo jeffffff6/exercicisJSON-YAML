@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8efWX+0zR4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\Practicando\\practicas javascript\\Pràctica-Tractament de dades\\JsonToYaml\\JsonToYaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\yamldotnet\\12.0.0\\yamldotnet.12.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

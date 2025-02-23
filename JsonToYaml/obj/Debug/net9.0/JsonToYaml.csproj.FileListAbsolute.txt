@@ -1,0 +1,70 @@
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\appsettings.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.staticwebassets.endpoints.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.exe
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.deps.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.runtimeconfig.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\JsonToYaml.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\scopedcss\bundle\JsonToYaml.styles.css
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets\msbuild.JsonToYaml.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets\msbuild.JsonToYaml.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets\msbuild.build.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.csproj.Up2Date
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\refint\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\JsonToYaml.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net9.0\ref\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\appsettings.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.staticwebassets.endpoints.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.exe
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.deps.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.runtimeconfig.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\JsonToYaml.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\scopedcss\bundle\JsonToYaml.styles.css
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets\msbuild.JsonToYaml.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets\msbuild.JsonToYaml.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets\msbuild.build.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.JsonToYaml.props
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.csproj.Up2Date
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\refint\JsonToYaml.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\JsonToYaml.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\ex 2.2\obj\Debug\net9.0\ref\JsonToYaml.dll

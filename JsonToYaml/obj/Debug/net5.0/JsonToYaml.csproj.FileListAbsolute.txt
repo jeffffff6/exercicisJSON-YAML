@@ -1,0 +1,6 @@
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\Pràctica-Tractament de dades\JsonToYaml\obj\Debug\net5.0\JsonToYaml.MvcApplicationPartsAssemblyInfo.cache

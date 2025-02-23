@@ -1,0 +1,17 @@
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\JSONtoYML.exe
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\JSONtoYML.deps.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\JSONtoYML.runtimeconfig.json
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\JSONtoYML.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\JSONtoYML.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\refint\JSONtoYML.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.pdb
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\ref\JSONtoYML.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Practicando\practicas javascript\JSONtoYML\obj\Debug\net9.0\JSONtoYML.csproj.Up2Date

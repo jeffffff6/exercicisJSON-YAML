@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7XAfPyZEw/m6uhnr7UxD4gkrmCOAfjUZ+Xk7kVb3Mrk=",
+  "Source": "JsonToYaml",
+  "BasePath": "_content/JsonToYaml",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
