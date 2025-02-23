@@ -1,0 +1,71 @@
+# Ignorar archivos de compilación
+/bin/
+/obj/
+
+# Ignorar archivos de configuración de usuario
+.vs/
+.vscode/
+.idea/
+
+# Ignorar archivos temporales de JetBrains Rider
+.idea/
+
+# Ignorar archivos de configuración de Visual Studio
+.vsconfig
+
+# Ignorar paquetes NuGet
+*.nupkg
+# Ignorar los directorios de paquetes y las fuentes de paquetes
+/packages/
+/.nuget/
+
+# Ignorar archivos de build específicos de .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignorar los archivos temporales de los entornos de desarrollo
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos binarios generados por .NET
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Ignorar archivos de configuración de macOS
+.DS_Store
+
+# Ignorar archivos de configuración de Windows
+Thumbs.db
+
+# Ignorar el archivo global de configuración de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de configuración de entorno local
+.env
+
+# Ignorar archivos generados por herramientas de automatización como JetBrains ReSharper
+_ReSharper.Caches/
+
+# Ignorar dependencias específicas de algunos gestores de paquetes
+node_modules/
+
+# Ignorar carpetas de pruebas de integración
+TestResults/
+
+# Ignorar archivos de compilación en contenedores Docker
+docker-compose.override.yml
+.docker/
+
+# Ignorar otros archivos temporales de desarrollo
+.idea/
+*.swp
+*.bak
+*.tmp
